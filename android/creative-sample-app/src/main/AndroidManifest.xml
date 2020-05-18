@@ -22,7 +22,7 @@
 
             Then you should paste your DEVELOPMENT OAuth2 Client ID here
          -->
-        <meta-data android:name="com.snapchat.kit.sdk.clientId" android:value="" />
+        <meta-data android:name="e05a459a-1c9c-4bbb-8ade-749b615f8e27" android:value="" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
